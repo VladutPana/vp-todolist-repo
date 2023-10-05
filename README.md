@@ -23,4 +23,4 @@ Tehnologii folosite:
 
 Autor:
 
-        Vlad Pană
+        @VladutPana
