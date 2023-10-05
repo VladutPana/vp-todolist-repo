@@ -1,26 +1,26 @@
-# vp-todolist-repo
+# To-Do List
  
         To-Do List
-O simplă aplicație To-Do List dezvoltată cu JavaScript, HTML și CSS. Această aplicație vă permite să adăugați, să ștergeți și  să bifați sarcini . Datele sunt salvate local în browser. 
+A simple To-Do List application developed using JavaScript, HTML, and CSS. This application allows you to add, delete, and mark tasks as completed. Data is locally saved in the browser.
 
-Caracteristici:
+Features:
 
-        -Adăugare de sarcini noi.
-        -Ștergere de sarcini.
-        -Marcarea sarcinilor ca "completat".
-        -Salvare locală a datelor pentru a păstra lista de sarcini chiar și după închiderea browser-ului.
+        -Add New Tasks: Easily add new tasks to the to-do list.
+        -Delete Tasks: Remove tasks from the list when they are no longer needed.
+        -Mark Tasks as Completed: Check off tasks as they are completed.
+        -Local Data Storage: The to-do list is saved locally in the browser, ensuring that the tasks are preserved even after closing the browser.
 Demo:
 
-Puteți vedea o demonstrație live a aplicației aici: http://www.vp-todolist-repo.com/
+You can view a live demonstration of the application here: http://www.vp-todolist-repo.com/
 
 
-Tehnologii folosite:
+Technologies Used:
 
         -HTML
         -CSS
         -JavaScript
 
 
-Autor:
+Author:
 
         @VladutPana
