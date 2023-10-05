@@ -2,6 +2,7 @@
  
         To-Do List
 A simple To-Do List application developed using JavaScript, HTML, and CSS. This application allows you to add, delete, and mark tasks as completed. Data is locally saved in the browser.
+![ToDoList2](https://github.com/VladutPana/vp-todolist-repo/assets/109078074/c1211d14-4080-4a6f-a948-4453664636cc)
 
 Features:
 
