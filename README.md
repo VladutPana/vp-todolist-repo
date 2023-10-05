@@ -12,7 +12,7 @@ Features:
         -Local Data Storage: The to-do list is saved locally in the browser, ensuring that the tasks are preserved even after closing the browser.
 Demo:
 
-You can view a live demonstration of the application here: http://www.vp-todolist-repo.com/
+You can view a live demonstration of the application here: [http://www.vp-todolist-repo.com/](https://vladutpana.github.io/vp-todolist-repo/)
 
 
 Technologies Used:
