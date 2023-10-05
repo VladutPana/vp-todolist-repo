@@ -11,7 +11,7 @@ Caracteristici:
         -Salvare locală a datelor pentru a păstra lista de sarcini chiar și după închiderea browser-ului.
 Demo:
 
-Puteți vedea o demonstrație live a aplicației aici: 
+Puteți vedea o demonstrație live a aplicației aici: http://www.vp-todolist-repo.com/
 
 
 Tehnologii folosite:
